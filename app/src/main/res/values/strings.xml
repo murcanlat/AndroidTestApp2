@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test Çalışması</string>
+
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">Kapat</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="plusButtonText" >Artır</string>
+    <string name="mailAddress" >murcanlat@gmail.com</string>
+    <string name="menuName" >Murat Menu</string>
+    <string name="menuImport1" >Yeni Resim Ekle</string>
+    <string name="menuGaleriy1" >Galeri</string>
+    <string name="menuSlideshow1">Slayt Göster</string>
+    <string name="nawTools1">Menu Ayarları</string>
+    <string name="communicate1">İletişim Kur</string>
+    <string name="share1">Paylaş</string>
+    <string name="send1">Mesaj Gönder</string>
+    <string name="hello_world">Merhaba Dünya</string>
+    <string name="take_picture">çek</string>
+
+</resources>
